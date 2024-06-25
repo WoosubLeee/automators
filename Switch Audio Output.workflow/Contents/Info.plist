@@ -12,7 +12,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>switch_audio_output</string>
+				<string>Switch Audio Output</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
